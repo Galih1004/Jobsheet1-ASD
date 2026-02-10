@@ -1,2 +1,4 @@
 # Jobsheet1-ASD
-Pembahasan Materi Semester 1
+Penjelasan :
+P1 = Percobaan 1
+T1 = Tugas 1
