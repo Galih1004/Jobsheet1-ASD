@@ -61,6 +61,7 @@ public class P1Pemilihan {
         System.out.println("\n===== HASIL NILAI =====");
         System.out.println("Nilai Akhir: " + nilaiAkhir);
         System.out.println("Nilai Huruf: " + nilaiHuruf);
+        System.out.println("==========================");
         System.out.println("Keterangan: " + keterangan);
         
         sc.close();
